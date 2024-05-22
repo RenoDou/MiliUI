@@ -48,7 +48,8 @@ LSM:Register(MediaType_FONT, "SF Wonder Comic",				[[Interface\Addons\SharedMedi
 LSM:Register(MediaType_FONT, "swf!t",						[[Interface\Addons\SharedMedia\fonts\swf!t\SWF!T___.ttf]])
 LSM:Register(MediaType_FONT, "WenQuanYi Zen Hei",			[[Interface\Addons\SharedMedia\fonts\wen_quan_yi_zen_hei\wqy-zenhei.ttf]],					koKR + ruRU + zhCN + zhTW + western)
 LSM:Register(MediaType_FONT, "Yellowjacket",				[[Interface\Addons\SharedMedia\fonts\yellowjacket\yellow.ttf]])
-
+LSM:Register(MediaType_FONT, "Rurutia YaHei",				[[Interface\Addons\SharedMedia\fonts\yellowjacket\Rurutia.ttf]])
+--Rurutia系列为我的自制合成字体，可以做好了以后在这里添加注册信息，自由DIY字体，by 露露緹婭@Bilibili
 -- -----
 --   SOUND
 -- -----
@@ -119,3 +120,33 @@ LSM:Register(MediaType_STATUSBAR, "Water",				[[Interface\Addons\SharedMedia\sta
 LSM:Register(MediaType_STATUSBAR, "Wglass",				[[Interface\Addons\SharedMedia\statusbar\Wglass]])
 LSM:Register(MediaType_STATUSBAR, "Wisps",				[[Interface\Addons\SharedMedia\statusbar\Wisps]])
 LSM:Register(MediaType_STATUSBAR, "Xeon",				[[Interface\Addons\SharedMedia\statusbar\Xeon]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia01",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia01]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia02",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia02]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia03",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia03]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia04",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia04]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia05",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia05]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia06",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia06]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia07",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia07]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia08",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia08]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia09",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia09]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia10",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia10]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia11",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia11]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia12",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia12]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia13",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia13]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia14",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia14]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia15",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia15]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia16",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia16]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia17",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia17]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia18",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia18]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia19",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia19]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia20",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia20]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia21",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia21]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia22",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia22]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia23",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia23]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia24",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia24]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia25",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia25]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia26",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia26]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia27",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia27]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia28",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia28]])
+LSM:Register(MediaType_STATUSBAR, "!Rurutia29",		    [[Interface\Addons\SharedMedia\statusbar\!Rurutia29]])
+--Rurutia系列为我的自制彩虹材质，可以做好了以后在这里添加注册信息，自由DIY材质条，by 露露緹婭@Bilibili
