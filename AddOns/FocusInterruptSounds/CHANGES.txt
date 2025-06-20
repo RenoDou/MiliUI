@@ -1,0 +1,10 @@
+lightweight tag 6ed8b26718991e4b0e3e283bed61694041b6d58c r158
+Author:	Brian Tsang <13686151+corgatag@users.noreply.github.com>
+Date:	Sat Mar 15 17:38:32 2025 -0700
+
+commit 6ed8b26718991e4b0e3e283bed61694041b6d58c
+Author: Brian Tsang <13686151+corgatag@users.noreply.github.com>
+Date:   Sat Mar 15 17:38:32 2025 -0700
+
+    Add dispel and low-priority interrupt settings for TWW S2
+
